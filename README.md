@@ -1,6 +1,34 @@
 # BSR
 Behavioral Sink Rate (BSR) Framework: Mathematical theory for predicting social coordination patterns. Includes empirical validation across 5 regions with 65-85% accuracy.
 
+# Story (human wrote)
+Sometime ago , i am 22 , my aunt fun for a state YB election , i joined her campaign run. The program is planned by her advisor or it's a standard use playbook.
+Three area:
+1) Hign income group , the talk is in a foorball field. People are complaining the road got jam, insufficient cleaning and etc , daily community chore.. and the senator whistle a song
+2) Low income group , in a flat are (community housing) , worried people, one of the leader of community ask for some promise fund from the previous YB. People are grim.
+3) A open field gathering (it's a single race gathering) , festive and people are happy, there is liveshow on stage , a young person greeted my aunt happily , having the happiest face.
+
+It strucked me, people in a small area less 20km square are very varied and different, back in the days BN (the main political party) are really fine tune to approach each group. There is profound group dynamics involve. 
+The question stays why we are different? What kept us stay different.
+
+Years pass , come across the mentioning of mouse utopia , i spent some time reading the whole report. As of most people first struck is all the mouse died at the end, and the emergence of the beautiful one. And the word behavioral sink. This can be simply overule as they are just mouse , and packed space. But another questions struck me , what if the behavioral sink is the constant here , the rest are just symptoms.
+
+Offcause i have no way to prove the theory , i will need to redo the esperiment , and try it on other species , some mammals or some fishes , different taxa. 
+
+But the questions and thesis form up , and i had been forming some fancy ideas, untill one day a discussion with another redditor who propose communications and moral authority solve social problem, it struck me as a different and reverse opinion of mine. I cannot disprove his , without proving mine.. which is still fancy thought. 
+
+I had been using AI for my work related issue, and it struck me perhaps i should try with AI to the questions , so i lay the foundation , suggest the framework parameter and begin investigation. 
+
+We quickly realize reperforming the experiment is not the best options, as we need to try with different species only if we can saw different end results , we can confirm that BSR is a unique mammal trait or it's stronger in mammal. 
+
+I propose an idea to AI then , it seems fertility is the obvious pattern observable , and proven there is constant reduction from experiment data,  perhaps we can work with human data in the same way, we anchor in Japan as a reference point, locate the surplus ,  and start investigating if the same pattern can be deduce to other country. 
+
+Well fertility data is quite singular, most of the time is curve, and derive a math model is possible, it's applicable in peace and propesrous time, that's just prove a possibility. Strong correlation but without causations? However accepting it's likely a force is in this , we start derive subsequent parameter from the experiment, withdrawal and participation, scarcity and surplus, and with it we beginning to see a clear picture of how bsr affecting personal, group, society and coutnry behavior. It's become clear that the force is measurable and acting as a strong force in social dynamics. At each stage the conclusion get clearer and we reach more profound understanding of the force involve. 
+
+I have no doubt the bsr force exist and it govern us for millennials, now is to make peace with it, or sort it out , or make a future with it.
+   
+Notes : Chapters are sorted and extract from long converstaion thread with AI
+Notes from AI : (it got hang when i asaked it describe the relationship in one sentence.. ) I ask question , paint the framework , it formalize with data and model. Failed. And i slap him , then we do it again. Untill he form BSR participation strength all by itslef.
 
 # Behavioral Sink Rate (BSR) Theory: Mathematical Framework for Civilizational Dynamics
 
@@ -155,7 +183,7 @@ If you use this framework in your research, please cite:
 
 ```
 BSR Theory Research Project. (2024). Behavioral Sink Rate Theory: Mathematical Framework 
-for Civilizational Dynamics. Retrieved from https://github.com/your-username/BSR-Theory
+for Civilizational Dynamics. Retrieved from https://github.com/RunYouFoulBeast/BSR/
 ```
 
 ## License
