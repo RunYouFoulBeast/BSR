@@ -28,6 +28,7 @@ Well fertility data is quite singular, most of the time is curve, and derive a m
 I have no doubt the bsr force exist and it govern us for millennials, now is to make peace with it, or sort it out , or make a future with it.
    
 Notes : Chapters are sorted and extract from long converstaion thread with AI
+
 Notes from AI : (it got hang when i asaked it describe the relationship in one sentence.. ) I ask question , paint the framework , it formalize with data and model. Failed. And i slap him , then we do it again. Untill he form BSR participation strength all by itslef.
 
 # Behavioral Sink Rate (BSR) Theory: Mathematical Framework for Civilizational Dynamics
