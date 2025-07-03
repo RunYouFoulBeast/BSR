@@ -2,7 +2,7 @@
 Behavioral Sink Rate (BSR) Framework: Mathematical theory for predicting social coordination patterns. Includes empirical validation across 5 regions with 65-85% accuracy.
 
 # Story (human wrote)
-Sometime ago , i am 22 , my aunt fun for a state YB election , i joined her campaign run. The program is planned by her advisor or it's a standard use playbook.
+Sometime ago , i am 22 , my aunt run for a state YB election , i joined her campaign run. The program is planned by her advisor or it's a standard use playbook.
 Three area:
 1) Hign income group , the talk is in a foorball field. People are complaining the road got jam, insufficient cleaning and etc , daily community chore.. and the senator whistle a song
 2) Low income group , in a flat are (community housing) , worried people, one of the leader of community ask for some promise fund from the previous YB. People are grim.
